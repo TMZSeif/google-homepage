@@ -112,6 +112,7 @@ body {
 .link {
     color: #000;
     text-decoration: none;
+    padding-right: 8px;
 }
 
 .link:hover {
